@@ -244,7 +244,7 @@
     .portfolio-to-show{
       background-size: cover; 
       background-position: center;
-      background-image: url(/img/services&portfolio-background-image.png);
+      background-image: url("../img/services&portfolio-background-image.png");
     }
   }  
 
