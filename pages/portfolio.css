@@ -260,6 +260,7 @@
     .portfolio-to-show-container{
       padding: 150px 25px;
       flex-direction: row;
+      flex-wrap : wrap;
       gap: 20px;
     }
   }
