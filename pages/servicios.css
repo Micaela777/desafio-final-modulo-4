@@ -266,6 +266,7 @@
     .services-to-give-container{
       padding: 110px 25px 150px 25px;
       flex-direction: row;
+      flex-wrap : wrap;
       gap: 20px;
     }
   }
